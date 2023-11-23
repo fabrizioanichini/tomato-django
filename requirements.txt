@@ -1,0 +1,6 @@
+Django>=4.0
+psycopg2-binary
+djangorestframework>=3.12,<4.0
+drf-yasg
+django-filter>=2.4.0
+
